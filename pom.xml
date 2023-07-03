@@ -7,7 +7,7 @@
   <version>3.1.9-SNAPSHOT</version>
   <name>maven-semantic-release-example</name>
   <description>Example project to auto-deploy maven projects</description>
-  <url>https://github.com/evansiroky/maven-semantic-release-example</url>
+  <url>https://github.com/muyurensheng/maven-semantic-release-example</url>
   <properties>
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
@@ -28,9 +28,9 @@
   </developers>
   <!-- Define where the source code for this project lives -->
   <scm>
-    <connection>scm:git:https://github.com/evansiroky/maven-semantic-release-example.git</connection>
-    <developerConnection>scm:git:https://github.com/evansiroky/maven-semantic-release-example.git</developerConnection>
-    <url>https://github.com/evansiroky/maven-semantic-release-example</url>
+    <connection>scm:git:https://github.com/muyurensheng/maven-semantic-release-example.git</connection>
+    <developerConnection>scm:git:https://github.com/muyurensheng/maven-semantic-release-example.git</developerConnection>
+    <url>https://github.com/muyurensheng/maven-semantic-release-example</url>
   </scm>
   <repositories>
     <repository>
